@@ -1,0 +1,16 @@
+* {
+    padding: 0;
+    margin: auto;
+}
+.navbar {
+    width: 100%;
+    height: 80px;
+    background-color: #fbd197;
+}
+
+.logo {
+    width: 100px;
+    height: 100px;
+    padding-left: 10px;
+    justify-content: flex-start;
+}
