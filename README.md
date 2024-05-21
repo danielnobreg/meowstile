@@ -11,7 +11,7 @@
 | Integrantes | Funções |
 | -------- | -------- |
 | Emanuelle Lucena Moreira    | Desenvolvedora / Idealizadora     |
-| Kamily Ferreira Bento	Idealizadora    | Desenvolvedora / Idealizadora     |
+| Kamily Ferreira Bento    | Desenvolvedora / Idealizadora     |
 | Daniel Nóbrega Da Silva    | Desenvolvedor front-end / Q.A     |
 | João Rodrigues Da Silva Bisneto    | Desenvolvedor front-end / Q.A     |
 | Maria Eduarda Alcântara Do Nascimento    | Desenvolvedora / Designer     |
