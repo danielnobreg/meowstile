@@ -6,6 +6,7 @@
 | -------- | -------- | 
 | 16/05/2024    | Definição da equipe e tema do projeto     |
 | 18/05/2024    | Construção do menu inicial do site     |
+| 22/05/2024    | Conclusão da tela de produtos e adição de informações à pagina home     |
 
 
 | Integrantes | Funções |
