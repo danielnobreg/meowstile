@@ -44,10 +44,52 @@ a:hover {
     display: flex;
 }
 
-.product {
+.product,.product1,.product2,.product3,.product4,.product5,.product6 {
     width: 300px;
     height: 300px;
-    background-color: grey;
+    box-shadow: 10px 10px 8px 10px #888888;
+}
+
+.product1 {
+    background-image: url("roupa\ \(1\).jpeg");
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.product2 {
+    background-image: url("roupa\ \(2\).jpeg");
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.product3 {
+    background-image: url("roupa\ \(3\).jpeg");
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.product4 {
+    background-image: url("roupa\ \(4\).jpeg");
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.product5 {
+    background-image: url("roupa\ \(5\).jpeg");
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.product6 {
+    background-image: url("roupa\ \(6\).jpeg");
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
 }
 
 .contact-box {
