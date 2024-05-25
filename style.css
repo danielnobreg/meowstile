@@ -1,6 +1,7 @@
 * {
     padding: 0;
     margin: auto;
+    list-style: none;
 }
 
 body {
@@ -286,4 +287,10 @@ input[type=textarea], select {
 
 .paragraph-bought {
   font-size: 16pt;
+}
+
+footer {
+  margin-top: 100px;
+  padding-top: 25px;
+  background-color: grey;
 }
