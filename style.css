@@ -281,5 +281,9 @@ input[type=textarea], select {
 
 .bought {
   display: flex;
-  flex-direction: column;
+  flex-direction: row-reverse;
+}
+
+.paragraph-bought {
+  font-size: 16pt;
 }
