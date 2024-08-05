@@ -75,7 +75,7 @@ Entrada e pré condição: O usuário deve fornecer seu E-mail.
 
 ![foto (4)](https://github.com/danielnobreg/meowstile/assets/88361738/c0ad68e3-afe1-4377-93c6-dc202126003f)
 
-###Saída e pré condição: 
+### Saída e pré condição: 
 O visitante deve clicar no botão “submit” para envio de contato, após isso o programa irá exibir a seguinte mensagem:
 
 ![image](https://github.com/danielnobreg/meowstile/assets/88361738/7e347f99-7bb8-4d31-8cc9-eb68968f1662)
